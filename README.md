@@ -11,8 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adedortmahan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=444notdotun&icon=0&color=0)
-
 </div>
 
 ---
