@@ -2,14 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=notdotun&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;React+%7C+Django+%7C+Spring+Boot+%7C+Go;Building+products+that+matter;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+System+Design;Building+products+that+matter;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adedotun-adewole-3ba6531a6/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notdotun_)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adedortmahan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 
 </div>
 
@@ -17,14 +16,12 @@
 
 ## 👋 About Me
 
-I'm a **full-stack software engineer** who loves building clean, scalable systems and pixel-perfect user interfaces. I work across the entire stack — from crafting smooth React frontends to designing robust Java and Django backends.
+I'm a **full-stack software engineer** who builds end-to-end products — robust Java backends, clean React frontends, and the reliability infrastructure that holds them together.
 
-- 🔭 Currently building [**SHOP.CO**](https://github.com/444notdotun/shopco) — a React e-commerce storefront with a sharp B&W design system
-- 🛠️ Working on [**getPaid**](https://github.com/444notdotun/getpaid) — a Django-powered payment & invoicing backend
-- 🦫 Learning **Go** for high-performance backend services
-- ☁️ Deploying on **AWS**, experimenting with **Kafka** & **Spark** for data pipelines
-- 💡 I believe in **boring tech done right** — simple solutions over clever ones
-- 🤝 Open to collaborating on meaningful open source projects
+- 🔭 Currently building an **EdTech Platform** — Spring Boot + PostgreSQL, JWT auth, Paystack integration, role-based access (Student, Facilitator, Admin)
+- 🎬 Shipped [**Cinema Booking App**](https://github.com/444notdotun/CinemaBookingApp) — full payment lifecycle with Paystack webhooks, HMAC verification, idempotency, and seat lock scheduling
+- 📐 Designing systems end-to-end: class diagrams, ERDs, sequence diagrams, activity diagrams before writing a line of code
+- 🤝 Open to backend engineering roles — especially payments, fintech, and AI infrastructure
 
 ---
 
@@ -35,36 +32,25 @@ I'm a **full-stack software engineer** who loves building clean, scalable system
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=flat-square&logo=apachekafka)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
 ### 🗄️ Databases & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=#00C7B7)
 
 ---
 
@@ -73,24 +59,27 @@ I'm a **full-stack software engineer** who loves building clean, scalable system
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center">🎬 CinemaBook</h3>
+      <h3 align="center">🎬 Cinema Booking App</h3>
       <p align="center">
-        <a href="https://github.com/444notdotun/cinemabook">
-          <img src="https://via.placeholder.com/400x200/1a0a2e/e5c100?text=CinemaBook" alt="CinemaBook" width="100%"/>
+        <a href="https://github.com/444notdotun/CinemaBookingApp">
+          <img src="https://via.placeholder.com/400x200/1a0a2e/e5c100?text=CinemaBookingApp" alt="CinemaBook" width="100%"/>
         </a>
       </p>
-      <p>A full-featured cinema booking platform. Complete Spring Boot backend with movie listings, interactive seat selection, ticket booking, payment integration, and JWT-secured user auth. React frontend in progress.</p>
+      <p>Production-grade booking system with a full payment lifecycle. Built around reliability — HMAC SHA512 webhook verification, idempotency controls, state machine enforcement (PENDING → AWAITING_PAYMENT → CONFIRMED), and a scheduler that expires unpaid bookings and recovers seat locks after restart.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square"/>
         <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/444notdotun/cinemabook">
+        <a href="https://github.com/444notdotun/CinemaBookingApp">
           <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github"/>
         </a>
-        <img src="https://img.shields.io/badge/Frontend-In_Progress-orange?style=for-the-badge"/>
+        <a href="https://cinema-booking-app-gamma.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
       </p>
     </td>
     <td width="33%">
@@ -100,7 +89,7 @@ I'm a **full-stack software engineer** who loves building clean, scalable system
           <img src="https://via.placeholder.com/400x200/0f0f0f/ffffff?text=SHOP.CO" alt="SHOP.CO" width="100%"/>
         </a>
       </p>
-      <p>A modern e-commerce storefront built with <strong>React</strong> and CSS Modules. Features product listing, cart management, and a clean black-and-white design system using Bebas Neue + Barlow typography.</p>
+      <p>A modern e-commerce storefront built with React and CSS Modules. Features product listing, cart management, and a clean black-and-white design system using Bebas Neue + Barlow typography.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/CSS_Modules-000?style=flat-square"/>
@@ -155,13 +144,6 @@ I'm a **full-stack software engineer** who loves building clean, scalable system
 <div align="center">
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=444notdotun&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=444notdotun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
