@@ -150,7 +150,7 @@ I'm a **backend software engineer** building production-grade systems in Java an
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=444notdotun&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://pbs.twimg.com/media/HHI4srLWAAA8POo?format=jpg"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=444notdotun&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
